@@ -1,2 +1,3 @@
 # first_repo
-update the redme 
+update the readme 
+this is my first repo
